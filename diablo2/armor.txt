@@ -1,0 +1,202 @@
+Cap
+Skull Cap
+Helm
+Full Helm
+Great Helm
+Crown
+Mask
+Quilted Armor
+Leather Armor
+Hard Leather Armor
+Studded Leather
+Ring Mail
+Scale Mail
+Chain Mail
+Breast Plate
+Splint Mail
+Plate Mail
+Field Plate
+Gothic Plate
+Full Plate Mail
+Ancient Armor
+Light Plate
+Buckler
+Small Shield
+Large Shield
+Kite Shield
+Tower Shield
+Gothic Shield
+Gloves
+Heavy Gloves
+Bracers
+Light Gauntlets
+Gaunlets
+Leather Boots
+Heavy Boots
+Chain Boots
+Light Plate Boots
+Plate Boots
+Sash
+Light Belt
+Belt
+Heavy Belt
+Girdle
+Bone Helm
+Bone Shield
+Spiked Shield
+War Hat
+Sallet
+Casque
+Basinet
+Winged Helm
+Grand Crown
+Death Mask
+Ghost Armor
+Serpentskin Armor
+Demonhide Armor
+Trellised Armor
+Linked Mail
+Tigulated Mail
+Mesh Armor
+Cuirass
+Russet Armor
+Templar Coat
+Sharktooth Armor
+Embossed Plate
+Chaos Armor
+Ornate Armor
+Mage Plate
+Defender
+Round Shield
+Scutum
+Dragon Shield
+Pavise
+Ancient Shield
+Demonhide Gloves
+Sharkskin Gloves
+Heavy Bracers
+Battle Gauntlets
+War Gauntlets
+Demonhide Boots
+Sharkskin Boots
+Mesh Boots
+Battle Boots
+War Boots
+Demonhide Sash
+Sharkskin Belt
+Mesh Belt
+Battle Belt
+War Belt
+Grim Helm
+Grim Shield
+Barbed Shield
+Wolf Head
+Hawk Helm
+Antlers
+Falcon Mask
+Spirit Mask
+Jawbone Cap
+Fanged Helm
+Horned Helm
+Assault Helmet
+Avenger Guard
+Targe
+Rondache
+Heraldic Shield
+Aerin Shield
+Crown Shield
+Preserved Head
+Zombie Head
+Unraveller Head
+Gargoyle Head
+Demon Head
+Circlet
+Coronet
+Tiara
+Diadem
+Shako
+Hydraskull
+Armet
+Giant Conch
+Spired Helm
+Corona
+Demonhead
+Dusk Shroud
+Wyrmhide
+Scarab Husk
+Wire Fleece
+Diamond Mail
+Loricated Mail
+Boneweave
+Great Hauberk
+Balrog Skin
+Hellforged Plate
+Kraken Shell
+Lacquered Plate
+Shadow Plate
+Sacred Armor
+Archon Plate
+Heater
+Luna
+Hyperion
+Monarch
+Aegis
+Ward
+Bramble Mitts
+Vampirebone Gloves
+Vambraces
+Crusader Gauntlets
+Ogre Gauntlets
+Wyrmhide Boots
+Scarabshell Boots
+Boneweave Boots
+Mirrored Boots
+Myrmidon Greaves
+Spiderweb Sash
+Vampirefang Belt
+Mithril Coil
+Troll Belt
+Colossus Girdle
+Bone Visage
+Troll Nest
+Blade Barrier
+Alpha Helm
+Griffon Headress
+Hunter's Guise
+Sacred Feathers
+Totemic Mask
+Jawbone Visor
+Lion Helm
+Rage Mask
+Savage Helmet
+Slayer Guard
+Akaran Targe
+Akaran Rondache
+Protector Shield
+Guilded Shield
+Royal Shield
+Mummified Trophy
+Fetish Trophy
+Sexton Trophy
+Cantor Trophy
+Heirophant Trophy
+Blood Spirt
+Sun Spirit
+Earth Spirit
+Sky Spirit
+Dream Spirit
+Carnage Helm
+Fury Visor
+Destroyer Helm
+Conquerer Crown
+Guardian Crown
+Sacred Targe
+Sacred Rondache
+Ancient Shield
+Zakarum Shield
+Vortex Shield
+Minion Skull
+Hellspawn Skull
+Overseer Skull
+Succubae Skull
+Bloodlord Skull

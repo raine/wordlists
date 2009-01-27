@@ -1,0 +1,63 @@
+Healing Potion
+Mana Potion
+Full Healing Potion
+Full Mana Potion
+Stamina Potion
+Antidote Potion
+Rejuvenation Potion
+Full Rejuvenation Potion
+Thawing Potion
+Town Portal Book
+Identify Book
+amulet
+viper amulet
+ring
+gold
+Bark Scroll
+arrows
+Torch
+bolts
+Town Portal
+Identify Scroll
+Skeleton Key
+Mephisto Key
+Jade Figurine
+Lam Esen's Tome
+Horadric Cube
+Scroll of Horadric
+Mephisto Soul
+Book of Skill
+Khalim's Eye
+Khalim's Heart
+Khalim's Brain
+Chipped Amethyst
+Flawed Amethyst
+Amethyst
+Flawless Amethyst
+Perfect Amethyst
+Chipped Topaz
+Flawed Topaz
+Topaz	Topaz
+Flawless Topaz
+Perfect Topaz
+Chipped Saphire
+Flawed Saphire
+Saphire	Saphire
+Flawless Saphire
+Perfect Saphire
+Chipped Emerald
+Flawed Emerald
+Emerald	Emerald
+Flawless Emerald
+Perfect Emerald
+Chipped Ruby
+Flawed Ruby
+Ruby
+Flawless Ruby
+Perfect Ruby
+Chipped Diamond
+Flawed Diamond
+Diamond	Diamond
+Flawless Diamond
+Perfect Diamond
+Lesser Healing Potion
